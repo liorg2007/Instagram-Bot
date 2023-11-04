@@ -9,14 +9,15 @@ pip install time
 ```
 
 ## Usage
-Provide the:
-Bot username and password
-The name of the user to send the messages to
-The number of messages
+Provide:\
+Bot username and password\
+The name of the user to send the messages to\
+The number of messages\
 The message itself
 
-Then wait until the automation searches for the user.
-You need to select manually the user
+Sending:\
+Then wait until the automation searches for the user\
+You need to select manually the user\
 Then wait for the messages to be sent :)
 
 ### Disclaimer
