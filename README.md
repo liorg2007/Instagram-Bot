@@ -19,5 +19,5 @@ Then wait until the automation searches for the user.
 You need to select manually the user
 Then wait for the messages to be send :)
 
-## Disclaimer
-<span style="color: red"> DO NOT SPAM PEOPLE FOR THE SAKE OF HARM </span>
+### Disclaimer
+<h1 style="color: red"> DO NOT SPAM PEOPLE FOR THE SAKE OF HARM </h1>
