@@ -1,5 +1,5 @@
 # Instagram-Bot
-Web automation for sending messages in instagram
+Web automation for sending messages on instagram
 
 ## Requirements 
 ```
@@ -10,14 +10,18 @@ pip install time
 
 ## Usage
 Provide the:
-Bot username and pasword
+Bot username and password
 The name of the user to send the messages to
 The number of messages
 The message itself
 
 Then wait until the automation searches for the user.
 You need to select manually the user
-Then wait for the messages to be send :)
+Then wait for the messages to be sent :)
 
 ### Disclaimer
-<h1 style="color: red"> DO NOT SPAM PEOPLE FOR THE SAKE OF HARM </h1>
+```diff
+- DO NOT SPAM PEOPLE FOR THE SAKE OF HARM
+
+- I made this for learning purposes
+```
